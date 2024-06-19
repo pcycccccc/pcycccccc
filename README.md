@@ -14,10 +14,10 @@ Hello👋! I'm pcycccccc, I love working on projects related to these fields and
 Here are some of the skills and technologies I work with:
 
 - Programming Languages:  Python, C++
-- Deep Learning Frameworks: TensorFlow, PyTorch
-- Data Science: [Tools and frameworks, e.g., Pandas, NumPy, Scikit-learn]
+- Deep Learning Frameworks: onnx, PyTorch
 - Image Processing: OpenCV
 - Others: Docker, Git, Linux
+- The image processing tasks I currently master are: object detection, image segmentation, and text recognition.💥
 
 ---
 
